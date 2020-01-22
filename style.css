@@ -1,0 +1,10 @@
+body{
+  height: 100vh;
+}
+.row{
+  height: 10vh;
+}
+img{
+  height: 10vh;
+  width: 10vw;
+}
